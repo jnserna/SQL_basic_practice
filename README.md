@@ -3,7 +3,7 @@ SQL for beginners - This is a short guide to start with SQL.
 
 SQL para principiantes - Esta es una guía corta para empezar con SQL.
 
-English
+English -->
 A few tips before we start:
 1.	Be aware of SQL flavors. The one that we are going to use here is SQLite, but there are a few others.
 2.	Please study the concept of RDBMS
@@ -30,7 +30,7 @@ Notebook 2: we are going to use de module sqldf from pandasql library. There are
 ---------------------------------------------------------------------------------------------
 
 
-Español
+Español -->
 Algunos tips antes de empezar:
 1.	Sé consciente de las distintas variantes de plataformas para trabajar SQL. La que usaremos acá es SQLite, pero hay algunas otras.
 2.	Por favor estudiar el concepto de RDBMS
